@@ -26,8 +26,9 @@ export const About = () => {
             my analytical thinking, creativity and teamwork skills.
           </p>
           <p>
-            My professional interests extend beyond the realm of coding, I'm passionate about creating products
-            that are not only useful and convenient, but also enhance people's lives. I am a
+            My professional interests extend beyond the realm of coding,
+            I`&apos;`m passionate about creating products that are not only
+            useful and convenient, but also enhance people`&apos;`s lives. I am
             quick learner, easily adaptable to new tasks and willing to learn
             related roles if needed.
           </p>

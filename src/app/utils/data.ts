@@ -47,8 +47,7 @@ export const projectsData: projectType[] = [
     name: "It's hard to concentrate",
     repo: 'https://github.com/akurashkevich/slozhno-sosredotochitsya',
     url: 'https://akurashkevich.github.io/slozhno-sosredotochitsya/',
-    image:
-      'https://i.ibb.co/YcVXwYy/itshardtofocus.jpg',
+    image: 'https://i.ibb.co/YcVXwYy/itshardtofocus.jpg',
     description:
       'Responsive website featuring both light and dark themes, using a Mobile-first approach.',
     tags: ['HTML', 'CSS', 'JavaScript', 'BEM']
@@ -57,8 +56,7 @@ export const projectsData: projectType[] = [
     name: 'Assembly Endgame',
     repo: 'https://github.com/akurashkevich/assembly-endgame',
     url: 'https://akurashkevich.github.io/assembly-endgame/',
-    image:
-      'https://i.ibb.co/zmvyZFn/assembly.jpg',
+    image: 'https://i.ibb.co/zmvyZFn/assembly.jpg',
     description:
       'Guess the word within 8 attempts to keep the programming world safe from Assembly.',
     tags: ['React', 'Javascript', 'HTML', 'CSS']
@@ -67,8 +65,7 @@ export const projectsData: projectType[] = [
     name: 'Tenzies',
     repo: 'https://github.com/akurashkevich/tenzies',
     url: 'https://akurashkevich.github.io/tenzies/',
-    image:
-      'https://i.ibb.co/cDVCxMm/tenzies.jpg',
+    image: 'https://i.ibb.co/cDVCxMm/tenzies.jpg',
     description: 'Roll until all dice are the same.',
     tags: ['React', 'Javascript', 'HTML', 'CSS']
   }
